@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Merienda);
+
+h1{
+	font-family: 'Merienda', cursive;
+}
+body{
+	color:#05A0B2;
+	background: url('../images/heroimage.jpeg') no-repeat;
+	background-size: cover;
+	font-family: Century Gothic, sans-serif;
+	font-variant: small-caps;
+	text-align: center;
+}
+ul{
+	text-align: center;
+	list-style-type:none;
+}
